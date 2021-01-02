@@ -8,13 +8,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<br/>
-<br/>
-<details>
-  <summary>:zap: Spotify Stats</summary>
 
-[<img src="https://now-playing-wmxgy0z5y315rixudohbz811v.vercel.app/api/spotify-playing" alt="MassiveStrokeX Spotify Playing" width="350" />](https://open.spotify.com/user/wmxgy0z5y315rixudohbz811v)
-</details>
 
 <br />
 <br />
