@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MassiveStroke</h1>
 <h3 align="center">C#, HTML5, PHP.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xr4zz3rs&label=Profile%20Views&color=d400ff&style=flat" alt="xr4zz3rs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MassiveStrokex&label=Profile%20Views&color=d400ff&style=flat" alt="MassiveStrokex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xr4zz3rs" alt="xr4zz3rs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MassiveStrokex" alt="MassiveStrokex" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
